@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+.display-box{
+  min-height: 400px;
+  margin: 20px;
+}
+.input-cont{
+  margin: 20px;
+}
+#input-box{
+  height: 30px;
+  border-radius: 5px 0 0 5px;
+  border: 1px solid;
+  width: 300px;
+  background-color: rgb(247, 247, 247);
+}
+#search-btn{
+  height: 34px;
+  background-color: rgb(0, 157, 255);
+  border: none;
+  color: white;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+}
+.input-box{
+  height: 40px;
+}
+.nav-btn{
+  margin: 10px;
+  background-color: black;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.images{
+  width: 250px;
+  margin: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.nav-btn{
+  cursor: pointer;
+}
